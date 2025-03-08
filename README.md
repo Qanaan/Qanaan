@@ -4,7 +4,7 @@
 
 🔐 I’m interested in Cybersecurity & Networking
 
-🌱 I’m currently learning CTF challenges & Linux Security
+🌱 I’m currently learning CTF challenges & Security
 
 💡 I’m looking to cybersecurity projects and CTF challenges write-ups
 
